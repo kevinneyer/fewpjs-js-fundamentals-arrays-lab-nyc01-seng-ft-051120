@@ -13,4 +13,4 @@ prepend.unshift("Odie")
 
 removeLast.pop("Garfield")
 
-removeFirst.unshift("Garfield")
+removeFirst.shift("Milo")
